@@ -1,4 +1,5 @@
-# exercice-group
+
+exercice-group
 
 salut les zoulettes
 
@@ -6,4 +7,7 @@ salut les zoulettes
 je fait un commit sur master là
 
 coucou de Mel
+
+exercice-group
+Orquidea Marques
 
